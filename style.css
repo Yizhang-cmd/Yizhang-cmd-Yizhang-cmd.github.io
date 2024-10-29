@@ -28,7 +28,13 @@ body {
   margin: 0;
   line-height: 1.6;
   }
-  
+
+  #projects p {
+  max-width: 60ch;
+  margin: 0;
+  line-height: 1.6;
+  }
+
   h2 {
     color: #444;
   }
