@@ -23,6 +23,12 @@ body {
     border-bottom: 1px solid #ddd;
   }
 
+  .about-content {
+  display: flex;           
+  align-items: flex-start; 
+  gap: 20px;               
+  }
+
   #about p {
   max-width: 60ch;
   margin: 0;
