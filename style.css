@@ -6,6 +6,9 @@ body {
   }
   
   header {
+       h2 {
+    color: white;
+  }
     background-color: #333;
     color: white;
     padding: 1rem;
