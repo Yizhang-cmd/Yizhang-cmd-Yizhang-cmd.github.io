@@ -24,9 +24,9 @@ body {
   }
 
   #about p {
-  max-width: 38ch; /* Limits text line to 38 characters */
-  margin: 0 auto;  /* Centers the paragraph within the section */
-  line-height: 1.6; /* Adjusts spacing between lines for readability */
+  max-width: 38ch;
+  margin: 0;
+  line-height: 1.6;
   }
   
   h2 {
