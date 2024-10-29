@@ -66,6 +66,31 @@ body {
   h3 {
       margin-top: 75px;
   }
+
+  .music-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); 
+  gap: 20px; 
+  padding: 1rem 0;
+  }
+
+  .grid-item {
+  text-align: center;
+  }
+
+  .grid-item img {
+  width: 600; 
+  height: auto; 
+  border-radius: 8px; 
+  }
+
+  .grid-item p {
+  margin-top: 10px;
+  font-size: 1rem;
+  color: #444;
+  }
+
+
   footer {
     text-align: center;
     padding: 1rem;
