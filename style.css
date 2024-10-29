@@ -41,6 +41,12 @@ body {
   line-height: 1.6;
   }
 
+  .Project1-content {
+  display: flex;           
+  align-items: flex-start; 
+  gap: 20px;               
+  }
+
   h2 {
     color: #444;
   }
