@@ -53,6 +53,12 @@ body {
   gap: 20px;               
   }
 
+  .Project3-content {
+  display: flex;           
+  align-items: flex-start; 
+  gap: 20px;               
+  }
+
   h2 {
     color: #444;
   }
