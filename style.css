@@ -22,6 +22,12 @@ body {
     padding: 2rem;
     border-bottom: 1px solid #ddd;
   }
+
+  #about p {
+  max-width: 38ch; /* Limits text line to 38 characters */
+  margin: 0 auto;  /* Centers the paragraph within the section */
+  line-height: 1.6; /* Adjusts spacing between lines for readability */
+  }
   
   h2 {
     color: #444;
